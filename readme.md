@@ -1,6 +1,5 @@
 
 ## Software version
-To ensure the consistent result
 * python: 3.6
 * docker: 20.10.5
 * docker-compose: 1.26.0
