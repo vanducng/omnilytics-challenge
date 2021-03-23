@@ -1,0 +1,7 @@
+version: '3.3'
+
+services:
+  omnilytics:
+    build: .
+    volumes:
+      - ".:/usr/src/app"
